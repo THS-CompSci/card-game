@@ -27,3 +27,6 @@ public class CardFaces {
 ```
 
 That way, instead of using `"1.png"` in your code where you have no real idea what card it is you can use `CardFaces.ACE_CLUBS` which tells you exactly what face it is. 
+
+The Images game from [Open Game Art](https://opengameart.org/content/playing-cards)
+
